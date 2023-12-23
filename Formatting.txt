@@ -1,0 +1,18 @@
+Formatting:
+
+Table of Contents (18 pts)
+Chapter headings (12 pts)
+Sub Headings (11 pts)
+
+
+Chapter Heading (18 pts)
+example:- 1. Introduction 
+	
+Sub-Heading (14 pts)
+example:- 1.1 Purpose
+
+Text (11 pts)
+
+-> Text should be justified
+-> Figures should be captioned
+-> All figures must be mentioned in the text (a "callout") by their number. 
